@@ -1,0 +1,6 @@
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\importarDLL\importarDLL\bin\Debug\importarDLL.exe.config
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\importarDLL\importarDLL\obj\Debug\importarDLL.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\importarDLL\importarDLL\obj\Debug\MainWindow.g.cs
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\importarDLL\importarDLL\obj\Debug\App.g.cs
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\importarDLL\importarDLL\obj\Debug\importarDLL_MarkupCompile.cache
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\importarDLL\importarDLL\obj\Debug\importarDLL_MarkupCompile.lref

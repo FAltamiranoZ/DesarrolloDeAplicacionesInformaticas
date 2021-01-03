@@ -1,0 +1,13 @@
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\ConsoleApplication1-operadores\ConsoleApplication1-operadores\bin\Debug\ConsoleApplication1-operadores.exe.config
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\ConsoleApplication1-operadores\ConsoleApplication1-operadores\bin\Debug\ConsoleApplication1-operadores.exe
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\ConsoleApplication1-operadores\ConsoleApplication1-operadores\bin\Debug\ConsoleApplication1-operadores.pdb
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\ConsoleApplication1-operadores\ConsoleApplication1-operadores\obj\Debug\ConsoleApplication1-operadores.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\ConsoleApplication1-operadores\ConsoleApplication1-operadores\obj\Debug\ConsoleApplication1-operadores.exe
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\ConsoleApplication1-operadores\ConsoleApplication1-operadores\obj\Debug\ConsoleApplication1-operadores.pdb
+D:\Temp\Visual Studio\Proyectos\ConsoleApplication1-operadores\ConsoleApplication1-operadores\bin\Debug\ConsoleApplication1-operadores.exe.config
+D:\Temp\Visual Studio\Proyectos\ConsoleApplication1-operadores\ConsoleApplication1-operadores\bin\Debug\ConsoleApplication1-operadores.exe
+D:\Temp\Visual Studio\Proyectos\ConsoleApplication1-operadores\ConsoleApplication1-operadores\bin\Debug\ConsoleApplication1-operadores.pdb
+D:\Temp\Visual Studio\Proyectos\ConsoleApplication1-operadores\ConsoleApplication1-operadores\obj\Debug\ConsoleApplication1-operadores.csprojAssemblyReference.cache
+D:\Temp\Visual Studio\Proyectos\ConsoleApplication1-operadores\ConsoleApplication1-operadores\obj\Debug\ConsoleApplication1-operadores.csproj.CoreCompileInputs.cache
+D:\Temp\Visual Studio\Proyectos\ConsoleApplication1-operadores\ConsoleApplication1-operadores\obj\Debug\ConsoleApplication1-operadores.exe
+D:\Temp\Visual Studio\Proyectos\ConsoleApplication1-operadores\ConsoleApplication1-operadores\obj\Debug\ConsoleApplication1-operadores.pdb

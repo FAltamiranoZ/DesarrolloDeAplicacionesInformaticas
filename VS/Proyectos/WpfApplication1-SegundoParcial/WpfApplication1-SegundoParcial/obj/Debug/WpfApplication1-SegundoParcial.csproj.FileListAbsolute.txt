@@ -1,0 +1,28 @@
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\bin\Debug\WpfApplication1-SegundoParcial.exe.config
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\bin\Debug\WpfApplication1-SegundoParcial.exe
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\bin\Debug\WpfApplication1-SegundoParcial.pdb
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\MainWindow.g.cs
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\App.g.cs
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial_MarkupCompile.cache
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial_MarkupCompile.lref
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\MainWindow.baml
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.g.resources
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1_SegundoParcial.Properties.Resources.resources
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.csproj.GenerateResource.Cache
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.exe
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.pdb
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\bin\Debug\WpfApplication1-SegundoParcial.exe.config
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.exe
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.pdb
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\bin\Debug\WpfApplication1-SegundoParcial.exe
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\bin\Debug\WpfApplication1-SegundoParcial.pdb
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.csprojResolveAssemblyReference.cache
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\MainWindow.g.cs
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\App.g.cs
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial_MarkupCompile.cache
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial_MarkupCompile.lref
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\MainWindow.baml
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.g.resources
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1_SegundoParcial.Properties.Resources.resources
+C:\Users\polup_000\Documents\Visual Studio 2015\Proyectos\WpfApplication1-SegundoParcial\WpfApplication1-SegundoParcial\obj\Debug\WpfApplication1-SegundoParcial.csproj.GenerateResource.Cache

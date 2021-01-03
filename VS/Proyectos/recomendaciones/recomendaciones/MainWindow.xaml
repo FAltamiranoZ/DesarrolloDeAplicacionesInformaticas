@@ -1,0 +1,19 @@
+﻿<Window x:Class="recomendaciones.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:recomendaciones"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Correo:" HorizontalAlignment="Left" Margin="40,38,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txCorreo" HorizontalAlignment="Left" Height="23" Margin="117,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="40,95,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txPassword" HorizontalAlignment="Left" Height="23" Margin="117,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btRecomendacion" Content="Recomendación" HorizontalAlignment="Left" Margin="29,177,0,0" VerticalAlignment="Top" Width="95" Click="btRecomendacion_Click"/>
+        <Button x:Name="btClienteNuevo" Content="Cliente nuevo" HorizontalAlignment="Left" Margin="117,135,0,0" VerticalAlignment="Top" Width="104" Click="btClienteNuevo_Click"/>
+        <Button x:Name="btVerRecomendacion" Content="Ver recomendaciones" HorizontalAlignment="Left" Margin="161,177,0,0" VerticalAlignment="Top" Width="144" Click="btVerRecomendacion_Click"/>
+
+    </Grid>
+</Window>

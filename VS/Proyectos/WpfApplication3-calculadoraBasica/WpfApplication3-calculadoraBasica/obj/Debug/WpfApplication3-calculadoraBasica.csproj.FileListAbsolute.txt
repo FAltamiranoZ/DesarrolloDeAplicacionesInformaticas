@@ -1,0 +1,17 @@
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\bin\Debug\WpfApplication3-calculadoraBasica.exe.config
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\MainWindow.g.cs
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\App.g.cs
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica_MarkupCompile.cache
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica_MarkupCompile.lref
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\bin\Debug\WpfApplication3-calculadoraBasica.exe
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\bin\Debug\WpfApplication3-calculadoraBasica.pdb
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\MainWindow.baml
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica.g.resources
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3_calculadoraBasica.Properties.Resources.resources
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica.exe
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica.pdb
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\bin\Debug\WpfApplication3-calculadoraBasica.exe.config
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica.exe
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication3-calculadoraBasica\WpfApplication3-calculadoraBasica\obj\Debug\WpfApplication3-calculadoraBasica.pdb

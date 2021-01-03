@@ -1,0 +1,21 @@
+﻿<Window x:Class="recomendaciones.AltaComentario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:recomendaciones"
+        mc:Ignorable="d"
+        Title="AltaComentario" Height="300" Width="300" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="label" Content="Recomendacion" HorizontalAlignment="Left" Margin="68,54,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Título" HorizontalAlignment="Left" Margin="68,99,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Contenido" HorizontalAlignment="Left" Margin="68,148,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="162,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="162,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="162,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Atras" HorizontalAlignment="Left" Margin="60,229,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Button x:Name="button1" Content="Registrar" HorizontalAlignment="Left" Margin="189,229,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Label x:Name="label4" Content="idDisfraz" HorizontalAlignment="Left" Margin="68,10,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="162,14,0,0" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

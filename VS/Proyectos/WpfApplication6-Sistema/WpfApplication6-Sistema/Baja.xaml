@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication6_Sistema.Baja"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication6_Sistema"
+        mc:Ignorable="d"
+        Title="Baja" Height="401.713" Width="548.169" Loaded="Window_Loaded_1">
+    <Grid>
+        <DatePicker x:Name="FechaSal" HorizontalAlignment="Left" Margin="292,42,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="292,262,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="22" Margin="292,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="292,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="Fecha Salida" HorizontalAlignment="Left" Margin="82,40,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Responsable" HorizontalAlignment="Left" Margin="82,127,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Cantidad" HorizontalAlignment="Left" Margin="82,175,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="IdUser" HorizontalAlignment="Left" Margin="82,262,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Baja" HorizontalAlignment="Left" Margin="82,328,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Button x:Name="button1" Content="Regresar" HorizontalAlignment="Left" Margin="330,328,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Label x:Name="label4" Content="IdArticulo" HorizontalAlignment="Left" Margin="79,219,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="292,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label5" Content="Fecha Registro" HorizontalAlignment="Left" Margin="82,86,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="FechaReg" HorizontalAlignment="Left" Margin="292,88,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApplication1_convertidor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1_convertidor"
+        mc:Ignorable="d"
+        Title="Convertidor" Height="252.5" Width="484.5" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="41*"/>
+            <ColumnDefinition Width="435*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="-158,-109,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="GradosCentigrados" Content="Grados Centigrados" HorizontalAlignment="Left" Margin="35,31,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.418,2.944" Grid.ColumnSpan="2"/>
+        <Label x:Name="GradosFarenheit" Content="Grados Farenheit" HorizontalAlignment="Left" Margin="35,102,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtCentigrados" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="160,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="txtCentigrados_PreviewTextInput"/>
+        <Button x:Name="btCalcular" Content="Calcular" Grid.Column="1" HorizontalAlignment="Left" Margin="341,170,0,0" VerticalAlignment="Top" Width="75" Click="btCalcular_Click"/>
+        <TextBox x:Name="txtFarenheit" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="160,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged" PreviewTextInput="txtFarenheit_PreviewTextInput_1"/>
+
+    </Grid>
+</Window>

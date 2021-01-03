@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApplication6_Sistema.Almacen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication6_Sistema"
+        mc:Ignorable="d"
+        Title="Almacen" Height="302.663" Width="560.947">
+    <Grid>
+        <Label Content="Fecha de entrada:" HorizontalAlignment="Left" Margin="26,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Fecha factura:" HorizontalAlignment="Left" Margin="293,9,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFechaFactura" HorizontalAlignment="Left" Height="23" Margin="381,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Nombre del proveedor:" HorizontalAlignment="Left" Margin="26,68,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNombreProv" HorizontalAlignment="Left" Height="30" Margin="26,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241"/>
+        <Label Content="Articulo:" HorizontalAlignment="Left" Margin="26,142,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbArticulo" HorizontalAlignment="Left" Margin="106,142,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="cantidad:" HorizontalAlignment="Left" Margin="26,173,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCant" HorizontalAlignment="Left" Height="23" Margin="106,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="precio:" HorizontalAlignment="Left" Margin="26,204,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtPrecio" HorizontalAlignment="Left" Height="23" Margin="106,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Folio factura:" HorizontalAlignment="Left" Margin="293,40,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFolioFac" HorizontalAlignment="Left" Height="23" Margin="381,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="345,196,0,0" VerticalAlignment="Top" Width="75" Click="btnAgregar_Click" />
+        <DatePicker x:Name="dtEntrada" HorizontalAlignment="Left" Margin="135,12,0,0" VerticalAlignment="Top" DisplayDate="2017-10-05"/>
+        <Label Content="IdUser" HorizontalAlignment="Left" Margin="293,94,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbIdUser" HorizontalAlignment="Left" Margin="358,94,0,0" VerticalAlignment="Top" Width="120" DisplayMemberPath="idUser" ItemsSource="{Binding}"/>
+        <Button x:Name="btnAbrirV" Content="Salida de Artículos" HorizontalAlignment="Left" Margin="326,236,0,0" VerticalAlignment="Top" Width="117" Click="btnAbrirV_Click" />
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\bin\Debug\WpfApplication4-ejemploConexion.exe.config
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\MainWindow.g.cs
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\App.g.cs
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion_MarkupCompile.cache
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion_MarkupCompile.lref
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\bin\Debug\WpfApplication4-ejemploConexion.exe
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\bin\Debug\WpfApplication4-ejemploConexion.pdb
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\MainWindow.baml
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion.g.resources
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4_ejemploConexion.Properties.Resources.resources
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion.csproj.GenerateResource.Cache
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion.exe
+C:\Users\DAI\Desktop\Jose Francisco\Clase0926\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion.pdb
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\bin\Debug\WpfApplication4-ejemploConexion.exe.config
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion.exe
+C:\Users\DAI\Desktop\Jose Francisco\Proyectos\WpfApplication4-ejemploConexion\WpfApplication4-ejemploConexion\obj\Debug\WpfApplication4-ejemploConexion.pdb
