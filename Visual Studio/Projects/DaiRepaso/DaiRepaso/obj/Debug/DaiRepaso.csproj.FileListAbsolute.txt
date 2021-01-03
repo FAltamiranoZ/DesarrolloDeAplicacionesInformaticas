@@ -1,0 +1,14 @@
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\bin\Debug\DaiRepaso.exe.config
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\bin\Debug\DaiRepaso.exe
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\bin\Debug\DaiRepaso.pdb
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\DaiRepaso.csprojResolveAssemblyReference.cache
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\MainWindow.g.cs
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\App.g.cs
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\DaiRepaso_MarkupCompile.cache
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\DaiRepaso_MarkupCompile.lref
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\MainWindow.baml
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\DaiRepaso.g.resources
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\DaiRepaso.Properties.Resources.resources
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\DaiRepaso.csproj.GenerateResource.Cache
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\DaiRepaso.exe
+c:\users\polup_000\documents\visual studio 2015\Projects\DaiRepaso\DaiRepaso\obj\Debug\DaiRepaso.pdb
