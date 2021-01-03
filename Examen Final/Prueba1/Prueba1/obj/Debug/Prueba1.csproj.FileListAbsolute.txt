@@ -1,0 +1,16 @@
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\MainWindow.g.cs
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\App.g.cs
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Prueba1_MarkupCompile.cache
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Prueba1_MarkupCompile.lref
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Ventana2.g.cs
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\MainWindow.baml
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Ventana2.baml
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.g.resources
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+c:\users\polup_000\documents\visual studio 2015\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.pdb

@@ -1,0 +1,16 @@
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\bin\Debug\FinalWPF.exe.config
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\bin\Debug\FinalWPF.exe
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\bin\Debug\FinalWPF.pdb
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\FinalWPF.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\MainWindow.g.cs
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\Window1.g.cs
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\App.g.cs
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\FinalWPF_MarkupCompile.cache
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\FinalWPF_MarkupCompile.lref
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\MainWindow.baml
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\Window1.baml
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\FinalWPF.g.resources
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\FinalWPF.Properties.Resources.resources
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\FinalWPF.csproj.GenerateResource.Cache
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\FinalWPF.exe
+C:\Users\DAI\Desktop\FinalWPF\FinalWPF\obj\Debug\FinalWPF.pdb
